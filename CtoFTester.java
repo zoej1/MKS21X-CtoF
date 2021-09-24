@@ -9,8 +9,4 @@ public class CtoFTester{
     return (fahrenheit - 32.0) * (5.0/9.0);
   }
 
-  public static void main(String[] args) {
-    System.out.println(celsiusToFahrenheit(40.0));
-    System.out.println(fahrenheitToCelsius(100.0));
-  }
 }
